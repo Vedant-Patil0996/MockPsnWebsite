@@ -1,0 +1,72 @@
+.image {
+    position: absolute;
+    left: 900px;
+    top:25px;
+
+}
+.discord {
+    position: absolute;
+    left: 1000px;
+    top:25px;
+}
+.linkedin {
+    position: absolute;
+    left: 1100px;
+    top:25px;
+}
+.youtube {
+    position: absolute;
+    left: 1200px;
+    top:25px;
+}
+
+.mainimage {
+    position: absolute;
+    top: 130px;
+    left: 815px;
+}
+
+
+.welcome{
+    position: absolute;
+    width: 550px;
+    left: 50px;
+    top: 175px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+.info{
+    position: absolute;
+    width: 500px;
+    left: 50px;
+    top: 475px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+}
+
+.down{
+    position: absolute;
+    left: 625px;
+    top: 580px; 
+}
+
+.logo{
+    position: absolute;
+    width:10px;
+    left:100px;
+    top: 10px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+.project{
+    position: absolute;
+    left: 615px;
+    top: 530px;
+    width: 11px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+}
